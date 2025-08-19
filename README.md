@@ -5,13 +5,6 @@ Ciencia de datos
 Estructura del Proyecto
 chalengues alura latam
 
-│
-├── data/                 # Conjuntos de datos (raw y procesados)
-├── notebooks/            # Jupyter notebooks con análisis y visualizaciones
-├── scripts/              # Scripts de Python para limpieza, análisis y modelado
-├── reports/              # Informes y gráficos finales
-├── requirements.txt      # Dependencias del proyecto
-└── README.md             # Este archivo
 
 Funcionalidades
 
