@@ -42,8 +42,7 @@ Calificación promedio por tienda → gráfico de línea.
 
 # Cómo usar
 Clona el repositorio:
-git clone https://github.com/tu_usuario/analisis-ventas.git
-cd analisis-ventas
+git clone https://github.com/Janin-T/Challengues-Alura-Latam/blob/14a4a29cab0e11f643b6af982d52e47b8cb002e3/AluraStoreLatam.ipynb
 
 Instala dependencias:
 pip install pandas matplotlib
