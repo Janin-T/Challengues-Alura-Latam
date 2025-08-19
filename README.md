@@ -3,7 +3,7 @@
 Ciencia de datos
 
 analisis-ventas/
-│
+
 ├── ventas.csv            # Dataset con los registros de ventas
 ├── scripts/              # Scripts de Python para análisis
 │   └── analisis_ventas.py
