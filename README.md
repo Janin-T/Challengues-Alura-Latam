@@ -1,7 +1,10 @@
 # Challengues-Alura-Latam
+
 Ciencia de datos
+
 Estructura del Proyecto
-mi-proyecto-ciencia-datos/
+chalengues alura latam
+
 │
 ├── data/                 # Conjuntos de datos (raw y procesados)
 ├── notebooks/            # Jupyter notebooks con análisis y visualizaciones
